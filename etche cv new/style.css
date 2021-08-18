@@ -1,0 +1,120 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    box-shadow: 30px 0px 40px rgb(215, 220, 238), -30px 0px 40px rgb(194, 203, 216);
+    margin: auto;
+    max-width: 900px;
+}
+
+.srkl {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+    background-color: white;
+    width: 175%;}
+header {
+    height: 258px;
+    padding-top: 20px;
+    color: white;
+    background-color: rgb(55, 61, 245);
+}
+
+.photo {
+    margin-left:300 %;
+    border-radius: 300%;
+    width: 184px;
+    height: 220px;
+    overflow: hidden;
+}
+.des{
+    margin-left:22%;
+    margin-top: -18%;
+}   
+h3{
+    color: #242929;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    font-size: 20px;
+}
+.post{
+    color: orange;
+    font-weight: bold;
+    letter-spacing: .1rem;
+}
+.right{
+    padding: -15PX;
+    margin: -139px;
+    margin-top: -28%;
+}
+.right p{
+   margin-left: 500px;
+   letter-spacing: .1rem;    
+}
+.info{
+    width: 20px;
+    height: 0px;
+}
+.section-left{
+    background-color: white;
+    float: left;
+    width: 450px;
+}
+.section-right{
+    background-color: rgb(171, 234, 245);
+    float: right;
+    width: 450px;
+    height: 1000px;
+}
+ h4{
+    margin-left: 15%;
+    color: #0b1f1d;
+    letter-spacing: .1rem;
+    font-size: 20px;
+}
+hr.light{
+ border-top: 7px solid #252c2c;
+ width: 70%;
+ margin-top: 2rem;
+ margin-bottom: 0rem;
+}
+.atouts{
+    display: grid;
+    grid-template-columns: repeat(0, 1fr);
+    margin-left: 85%;
+}
+.div{
+    margin-left: 5%;
+}
+
+.skls {
+    padding:5;
+    width: 40%;
+    margin-left: 5%
+}
+.cool {
+    background-color: #fff;
+    border: 2px solid rgb(79, 155, 145);
+    width: 300px;
+    height: 5px;
+}
+
+.po {
+    margin-top: 14px;
+}
+strong{
+    color: #192dd8;
+    text-decoration: none; 
+}
+.inner {
+    height: 150%;
+    background-color:  rgb(55, 105, 63);
+}
+/* .interet{
+    margin-left: -4%;
+} */
+span{
+    margin-left: 32px;
+}
+
